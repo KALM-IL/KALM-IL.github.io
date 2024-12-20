@@ -55,9 +55,9 @@ body {
   font-family: "Google Sans", sans-serif;
 }
 
-.publication-venue {
-  color: #555;
-  width: fit-content;
+.publication-venue a {
+  color: brown;
+  /* width: fit-content; */
   font-weight: bold;
 }
 
