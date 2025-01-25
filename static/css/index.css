@@ -71,10 +71,11 @@ body {
 }
 
 .publication-authors a {
-  color: hsl(204, 86%, 53%) !important;
+  color: #8a8b8c;
 }
 
 .publication-authors a:hover {
+  color: #a31f34;
   text-decoration: underline;
 }
 
